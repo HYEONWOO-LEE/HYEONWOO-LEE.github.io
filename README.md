@@ -1,4 +1,4 @@
-# plainwhite
+# Test github.io
 
 Simplistic jekyll portfolio-style theme for writers.
 
